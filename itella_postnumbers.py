@@ -44,7 +44,9 @@ class PCFParser(object):
         self._mapping = out
         return self._mapping
 
+postnumbers = PCFParser()
+
 if __name__ == '__main__':
     import json
-    m = PCFParser().get_mapping()
+    m = postnumbers.get_mapping()
     print(json.dumps(m))
