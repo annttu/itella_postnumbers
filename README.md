@@ -8,7 +8,9 @@ Usage
 
     >>> from itella_postnumbers import postnumbers
     >>> postnumbers.get_mapping()
-    [{'id': '090', 'region_swe': 'Södra Savolax', 'short_swe': '', 'name_swe': 'Heinävesi', 'short': '', 'region': 'Etelä-Savo', 'type': 'HEINÄVESI', 'name': 'Heinävesi', 'ponotid': 'PONOT2014112479700HEINÄVESI'}, ... ]
+    [{'id': '090', 'region_swe': 'Södra Savolax', 'short_swe': '', 'name_swe': 
+    'Heinävesi', 'short': '', 'region': 'Etelä-Savo', 'type': 'HEINÄVESI',
+    'name': 'Heinävesi', 'ponotid': 'PONOT2014112479700HEINÄVESI'}, ... ]
 
 Author
 ======
