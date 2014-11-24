@@ -3,6 +3,16 @@ Itella postnumbers
 
 A simple Python library to fetch and parse Itella's poorly formatted postnumber and postoffice data to python data structure.
 
+Installation
+============
+
+## PIP
+
+    pip --find-links http://code.annttu.fi/pip itella_postnumbers
+
+## Source
+    git clone https://github.com/annttu/itella_postnumbers.git
+
 Usage
 =====
 
